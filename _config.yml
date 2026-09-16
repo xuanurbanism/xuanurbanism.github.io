@@ -6,7 +6,7 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: github-admin
+name: Ruey Xuan Lee
 title: Your job title
 email: Your email (optional)
 # email_title: Email (Email title override)
@@ -106,7 +106,7 @@ content:
           Description of qualification
   - title: A Little More About Me
     layout: text
-    content: | # this will include new lines to allow paragraphs
+    content: I like trains| # this will include new lines to allow paragraphs
       This is where you can write a little more about yourself. You could title this section **Interests** and include some of your other interests.
 
       Or you could title it **Skills** and write a bit more about things that make you more desirable, like *leadership* or *teamwork*
